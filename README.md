@@ -1,2 +1,2 @@
-# Superstore_Sales_Dasboard
-Power BI Dasboard
+# Superstore_Sales_Dashboard
+Power BI Dashboard
